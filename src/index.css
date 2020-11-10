@@ -46,18 +46,7 @@ code {
   margin-bottom: 2%;
 }
 
-.navlink {
-  margin-right: 2%;
-}
 
-.navlinks {
-  text-decoration: none;
-  font-weight: 600;
-  background-color: white;
-  border-radius: 2px;
-  padding: 5px;
-  color: black;
-}
 
 .navlinks:hover {
   background-color: black;

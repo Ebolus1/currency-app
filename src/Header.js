@@ -16,6 +16,9 @@ class Header extends React.Component {
                         <Nav className="ml-auto">
                             <Nav.Link><Link to="/Table/">Currency Table</Link></Nav.Link>
                             <Nav.Link><Link to="/Converter/">Currency Converter</Link></Nav.Link>
+                            <Nav.Link>
+                            <Link to="/HistoryChart/">History Chart</Link>
+                            </Nav.Link>
                         </Nav>
                     </Navbar.Collapse>
                 </Navbar>
