@@ -13,8 +13,8 @@ const Home = () => {
       <div>
         <div className="welcomeOuter">
           <div className="welcomeInner table-dark"> 
-            <h1 id="welcomeHeader" className="table-dark">Welcome!</h1>
-            <p className="table-dark welcomeText">This app was designed with React for an online class. It also makes use of FontAwesome, Bootstrap, React Router, and a photo from Unsplash. </p>
+            <h1 id="welcomeHeader" className="table-dark">Hello</h1>
+            <p className="table-dark welcomeText"> Use this app to track currency</p>
           </div>
         </div>
       </div>

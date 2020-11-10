@@ -13,7 +13,7 @@ class Footer extends React.Component {
     return (
       <div className="footer">
 
-       <a href="https://github.com/jasonweaver10">
+       <a href="https://github.com/ebolus101">
          <FontAwesomeIcon icon={['fab', 'github']} className="socialIcons footerLinks" size="3x"/>     
        </a>
      </div>
